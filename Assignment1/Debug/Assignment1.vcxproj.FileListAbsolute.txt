@@ -1,0 +1,2 @@
+Z:\vsprojects\Assignment1\Debug\Assignment1.exe
+Z:\vsprojects\Assignment1\Debug\Assignment1.pdb
